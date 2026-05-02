@@ -66,15 +66,18 @@
     gap:4px;
     
   }
-  
-  
+
+
   .bt_menu div{
     
-    border:1.5px solid #fff;
-    min-width:90%;
-    height:0px;
+    border: 1.5px solid #fff;
+    min-width: 90%;
+    background: #fff;
+    height: 0px;
+    border-radius: 20%;
     
   }
+  
   
   
   
