@@ -67,8 +67,11 @@ cp .env.example .env
  ### Ejecución
 
 php artisan key:generate
+
 php artisan migrate --force
+
 php artisan serve
+
 
 Abrir en navegador:
 
