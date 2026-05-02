@@ -54,9 +54,9 @@ Base para sistemas reales como:
 
   ### Instalación
 
-git clone https://github.com/FedericoZorrillaOficial/login_simple
+git clone https://github.com/FedericoZorrillaOficial/login_laravel
 
-cd login_simple
+cd login_laravel
 
 composer install
 
