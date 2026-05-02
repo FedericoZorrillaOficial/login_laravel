@@ -73,7 +73,7 @@ php artisan migrate --force
 php artisan serve
 
 
-Abrir en navegador:
+#### Abrir en navegador:
 
 http://127.0.0.1:8000
 
