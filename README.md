@@ -2,8 +2,8 @@
 
 <a href="https://federicozorrillaoficial.com/" target="_blank">
   <img src="https://federicozorrillaoficial.com/img/logo.svg" width="180" alt="Federico Zorrilla Logo">
-</p>
 </a>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="140" alt="Laravel Logo">
